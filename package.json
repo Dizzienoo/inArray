@@ -1,0 +1,10 @@
+{
+  "name": "inArray",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wallisa <adam.wallis@uk.fujitsu.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
